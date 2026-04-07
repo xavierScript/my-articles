@@ -9,7 +9,8 @@ A collection of all my published articles.
 ## 🚀 Blockchain and Web3
 - [Your Digital Fingerprint: How Blockchain Uses Hashing for Ultimate Security](https://medium.com/@david111francisco/your-digital-fingerprint-how-blockchain-uses-hashing-for-ultimate-security-3f83807a9539)
 - [Passkey Login & Smart Wallet Creation on Solana with Next.js and LazorKit — No More Seed Phrases!](https://dev.to/xavier_script/passkey-login-smart-wallet-creation-on-solana-with-nextjs-and-lazorkit-no-more-seed-phrases-1mbp)
+- [From Broke Bots to a Digital Economy: Building the Agent Economy Wallet on Solana](https://x.com/xavierScript/status/2039315867285016736?s=20)
 
 ## 🧠 AI & Future Thinking
-- []()
+- [From Broke Bots to a Digital Economy: Building the Agent Economy Wallet on Solana](https://x.com/xavierScript/status/2039315867285016736?s=20)
 
